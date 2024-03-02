@@ -2,13 +2,13 @@
   
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Statistical Analysis of the 2021 and 2022 Elections in Israel for the Labor Party](https://github.com/urielfaier/Statistical-Analysis-for-the-Labor-party-)
+- [Statistical Analysis of the 2021 and 2022 Elections in Israel for the Labor Party Using Python](https://github.com/urielfaier/Statistical-Analysis-for-the-Labor-party-)
 
 - [Nashville Housing Data Cleaning in SQL](https://github.com/urielfaier/Nashville-Housing-SQL)
 
 - [Covid-19 Data Exploration in SQL](https://github.com/urielfaier/Covid19-Data-Exploration-in-SQL)
 
-- [Analyzing Text Data from the Famous book Moby Dick](https://github.com/urielfaier/text_analysis_of_moby_dick)
+- [Analyzing Text Data from the Famous book Moby Dick Using R](https://github.com/urielfaier/text_analysis_of_moby_dick)
 
 
 
