@@ -2,9 +2,10 @@
   
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
+- [Statistical Analysis of the 2021 and 2022 Elections in Israel for the Labor Party](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/urielfaier/Statistical-Analysis-for-the-Labor-party-)
+- [Nashville Housing Data Cleaning in SQL](https://github.com/urielfaier/Nashville-Housing-SQL)
+- [Covid-19 Data Exploration in SQL](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/urielfaier/Covid19-Data-Exploration-in-SQL)
+- [Analyzing Text Data from the Famous book Moby Dick](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/urielfaier/text_analysis_of_moby_dick)
 
 
 <h2> 🤳 Connect with me:</h2>
