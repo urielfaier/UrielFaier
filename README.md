@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Data scientists role job analysis sql](https://github.com/urielfaier/Data_scientists_job_analysis_sql)
+- [Data scientists role job analysis SQL](https://github.com/urielfaier/Data_scientists_job_analysis_sql)
 
 - [Statistical Analysis of the 2021 and 2022 Elections in Israel for the Labor Party Using Python](https://github.com/urielfaier/Statistical-Analysis-for-the-Labor-party-)
 
