@@ -6,6 +6,8 @@
 
 - [Statistical Analysis of the 2021 and 2022 Elections in Israel for the Labor Party Using Python](https://github.com/urielfaier/Statistical-Analysis-for-the-Labor-party-)
 
+- [Fraud Detection Data Analysis using Python](https://github.com/urielfaier/Fraud-Detection-Data-Analysis)
+
 - [Nashville Housing Data Cleaning in SQL](https://github.com/urielfaier/Nashville-Housing-SQL)
 
 - [Covid-19 Data Exploration in SQL](https://github.com/urielfaier/Covid19-Data-Exploration-in-SQL)
